@@ -1,0 +1,77 @@
+{
+    "total": 4,
+    "entries": [
+        {   
+            "chatroomId": 0,
+            "message": "Hi!",
+            "sender": 1,
+            "timestamp": 1521243895
+        },
+        {   
+            "chatroomId": 0,
+            "message": "I'm worried about finding a place to work",
+            "sender": 1,
+            "timestamp": 1521243895
+        },
+        {   
+            "chatroomId": 0,
+            "message": "Hello Ember",
+            "sender": 0,
+            "timestamp": 1521243895
+        },
+        {   
+            "chatroomId": 0,
+            "message": "I would recommend you to go to...",
+            "sender": 0,
+            "timestamp": 1521243895
+        },
+        {   
+            "chatroomId": 1,
+            "message": "Hello",
+            "sender": 0,
+            "timestamp": 1521243895            
+        },
+        {   
+            "chatroomId": 1,
+            "message": "I need help",
+            "sender": 0,
+            "timestamp": 1521243895            
+        },
+        {   
+            "chatroomId": 2,
+            "message": "Hello",
+            "sender": 0,
+            "timestamp": 1521243895            
+        },
+        {   
+            "chatroomId": 2,
+            "message": "Hello",
+            "sender": 0,
+            "timestamp": 1521243895            
+        },
+        {   
+            "chatroomId": 1,
+            "message": "Hello",
+            "sender": 0,
+            "timestamp": 1521243895            
+        },
+        {   
+            "chatroomId": 3,
+            "message": "Hello",
+            "sender": 1,
+            "timestamp": 1521243895            
+        },
+        {   
+            "chatroomId": 3,
+            "message": "Hello",
+            "sender": 0,
+            "timestamp": 1521243895            
+        },
+        {   
+            "chatroomId": 3,
+            "message": "How are you?",
+            "sender": 0,
+            "timestamp": 1521243895            
+        }
+    ]
+}

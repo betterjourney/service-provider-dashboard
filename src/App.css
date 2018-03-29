@@ -1,0 +1,171 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.wrapper {
+  display: flex;
+  align-items: stretch;
+}
+
+.sidebar {
+  min-width: 100px;
+  height: 600px;
+  max-width: 100px;
+  background-color: #34A9DC;
+  padding-top: 30px
+}
+
+.navbar .container {
+  padding: 0
+}
+
+.sidebar-card {
+  width: 70px;
+  height: 60px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: white;
+  size: 12px;
+}
+
+
+.header {
+  min-width: 100%;
+  background-color: blue
+}
+
+.header ul {
+  margin: 0;
+}
+
+.content {
+  width: 100%;
+}
+
+.messenger-component {
+  padding: 0;
+  border: 1px #F0F5F8 solid;
+}
+
+.chat-list-item:hover {
+  background-color: #ECF7FB;
+  cursor: pointer;
+}
+
+.messenger .row {
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 5px;
+}
+.messenger .row .col-md-3, .messenger .row .col-md-6 {
+  padding: 0;
+}
+
+.chat .messages-feed {
+  width: 75vh;
+  height: 70vh;
+  border-radius: 10px;
+  background-color:#F0F5F8;
+  margin-left: 10%;
+}
+
+.chat .messages-submit {
+  height: 5vh;
+  margin: 15px;
+  border-radius: 10px;
+  background-color:#F0F5F8;
+}
+
+.chat .form {
+  margin: 15px;
+  margin-left: 10%;
+}
+
+.chat .form-control {
+  width: 63vh;
+}
+.chat .btn {
+  margin-left: 10px;
+}
+
+.profile {
+  height: 90vh;
+}
+
+.chats-list {
+  height: 90vh;
+}
+
+.chat-list-item {
+  margin: 10px;
+  background-color: #F0F5F8;
+  border: 1px #F0F5F8 solid;
+  border-radius: 10px;
+  height: 60px;
+  padding: 5px;
+}
+
+.chat-list-item img {
+  width: 40px;
+  height: 40px;
+}
+
+.message-item {
+  margin: 10px;
+}
+
+.card-my-message  {
+  background-color: #FDFEFF;
+  margin-right: 200px;
+  border-radius: 10px;
+  border: 1px #ADB1BA solid;
+  
+  
+}
+
+.card-not-my-message {
+  background-color: #ECF7FB;
+  margin-left: 200px;
+  border-radius: 10px;
+  border: 1px #ADB1BA solid;
+  
+}
+
+.section-title {
+  margin: 15px;
+}
+
+.profile-section {
+  height: 150px;
+  margin: 5px;
+  background-color: #F0F5F8; 
+}
+
+.profile-section h5 {
+  padding: 5px;
+}

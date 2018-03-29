@@ -1,0 +1,25 @@
+{
+    "total": 4,
+    "entries": [
+        {   
+            "chatroomId": 0,
+            "firstUser": 0,
+            "secondUser": 1
+        },
+        {   
+            "chatroomId": 1,
+            "firstUser": 0,
+            "secondUser": 2
+        },
+        {   
+            "chatroomId": 2,
+            "firstUser": 0,
+            "secondUser": 3
+        },
+        {   
+            "chatroomId": 3,
+            "firstUser": 0,
+            "secondUser": 4
+        }
+    ]
+}
